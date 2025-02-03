@@ -1,0 +1,16 @@
+{
+    "weaponList": [
+        {
+            "av": 1,
+            "durability": 1,
+            "name": "w1"
+        },
+        {
+            "av": 2,
+            "durability": 2,
+            "name": "w2"
+        }
+    ],
+    "numWeapon": 2,
+    "capacity": 10
+}

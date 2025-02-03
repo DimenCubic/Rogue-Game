@@ -1,0 +1,15 @@
+{
+    "storeWeapon": [
+        {
+            "av": 3,
+            "durability": 66,
+            "name": "Black Hole Generator"
+        },
+        {
+            "av": 7,
+            "durability": 39,
+            "name": "Morning Star Wand"
+        }
+    ],
+    "numWeapon": 2
+}

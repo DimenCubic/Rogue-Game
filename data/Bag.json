@@ -1,0 +1,16 @@
+{
+    "weaponList": [
+        {
+            "av": 5,
+            "durability": 19,
+            "name": "Ru YI JIN GU BANG"
+        },
+        {
+            "av": 4,
+            "durability": 79,
+            "name": "Ru YI JIN GU BANG"
+        }
+    ],
+    "numWeapon": 2,
+    "capacity": 10
+}
