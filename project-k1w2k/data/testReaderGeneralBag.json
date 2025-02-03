@@ -1,0 +1,16 @@
+{
+    "weaponList": [
+        {
+            "name": "Dark Soul",
+            "av": 5,
+            "durability": 10
+        },
+        {
+            "name": "Elden Ring",
+            "av":  10,
+            "durability": 20 
+        }
+    ],
+    "capacity": 5
+     
+}

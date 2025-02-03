@@ -1,0 +1,26 @@
+{
+    "weaponList": [
+        {
+            "av": 8,
+            "durability": 93,
+            "name": "Mobius Ring"
+        },
+        {
+            "av": 10,
+            "durability": 31,
+            "name": "Mobius Ring"
+        },
+        {
+            "av": 8,
+            "durability": 10,
+            "name": "Mobius Ring"
+        },
+        {
+            "av": 10,
+            "durability": 67,
+            "name": "Black Hole Generator"
+        }
+    ],
+    "numWeapon": 4,
+    "capacity": 10
+}

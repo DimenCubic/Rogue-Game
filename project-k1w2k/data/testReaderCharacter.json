@@ -1,0 +1,21 @@
+{
+    "name": "CHEN",
+    "hv": 10,
+    "oriav": 20,
+    "av": 3,
+    "dv": 4,
+    "mv": 10,
+    "maxhv": 30,
+    "maxmv": 45,
+    "isarm": true,
+    "weapon": {
+        "name": "Wood",
+        "av": 1,
+        "durability": 4
+    },
+    "experience": 77,
+    "level": 2
+}
+
+
+ 

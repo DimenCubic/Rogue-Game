@@ -1,0 +1,8 @@
+{
+    "storeWeapon": [{
+        "av": 8,
+        "durability": 72,
+        "name": "Death Knight"
+    }],
+    "numWeapon": 1
+}
